@@ -1,3 +1,3 @@
 # HackerRank-Matrix
 
-Solution to Matrix challenge from HackerRank
+My solution to Matrix challenge from HackerRank
